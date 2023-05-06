@@ -21,23 +21,28 @@
       "published": false
     },
     {
-      "id": "1",
+      "id": 1,
       "title": "ping",
       "published": "false"
     },
     {
-      "id": "6",
+      "id": 6,
       "title": "wow",
       "published": "true"
     },
     {
-      "id": "[object HTMLInputElement]",
-      "title": "post from the web",
+      "id": 11,
+      "title": "posting from the web",
       "published": "false"
     },
     {
-      "id": "12",
+      "id": 12,
       "title": "hello world",
+      "published": "true"
+    },
+    {
+      "id": 13,
+      "title": "Fixing the Number Issue",
       "published": "true"
     }
   ]

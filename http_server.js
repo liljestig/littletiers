@@ -26,7 +26,7 @@ app.get('/data', function(req, res){
 app.get('/posts/:title/:id/:published', function(req, res){
 
     var post = {
-        'id' : req.params.id,
+        'id' : parseInt(req.params.id),
         'title' : req.params.title,
         'published' : req.params.published,
     }
